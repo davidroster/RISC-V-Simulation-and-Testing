@@ -1,1 +1,3 @@
 # RISC-V-Simulation-and-Testing
+
+EVERYTHING EXPLAINED IN LAB01 PDF
